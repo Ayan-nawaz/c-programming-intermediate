@@ -1,16 +1,13 @@
-# C Programming Pointers
+# C Programming Intermediate
 
-This repository contains C pointer programs and examples for beginners.
+This repository contains intermediate-level C programming programs for learners who have completed the basics of C.
 
 ## Topics Covered
-- Introduction to Pointers
-- Pointer Declaration
-- Pointer Initialization
-- Pointer Arithmetic
-- Pointers and Arrays
-- Pointers and Functions
-- Double Pointers
-- Dynamic Memory Allocation
+- Taking Input
+- Data Types
+- Operators
+- Area of Circle
+- Remainder Calculation
 
 ## Language
 - C Programming
@@ -18,4 +15,4 @@ This repository contains C pointer programs and examples for beginners.
 ## Author
 Ayan Nawaz
 
-More pointer programs will be added regularly.
+More intermediate C programs will be added regularly.
